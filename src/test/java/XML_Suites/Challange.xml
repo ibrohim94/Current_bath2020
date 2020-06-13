@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Action item ">
+    <test name="Challenges" preserve-order="true">
+        <classes>
+            <!-- All Person -->
+            <class name="Day16_06072020.Action_Item" />
+            <class name="Day16_06072020.Letter_vowel" />
+            <class name="Day16_06072020.Washington_Abstract" />
+
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
